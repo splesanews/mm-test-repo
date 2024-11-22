@@ -1,4 +1,4 @@
-## Token Studio for Figma
+# Token Studio for Figma
 
 Token Studio for Figma is a powerful plugin that enables designers to define, manage, and apply design tokens directly within Figma. It bridges the gap between design and development by ensuring consistency in design systems and facilitating collaboration between teams.
 
